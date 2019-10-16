@@ -1,0 +1,11 @@
+npm uninstall -g @vue/cli
+
+npm config set registry https://registry.npm.taobao.org
+
+npm install -g @vue/cli
+
+npm run serve
+
+
+路由传参
+https://segmentfault.com/a/1190000012393587?utm_source=tag-newest
